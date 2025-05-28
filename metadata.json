@@ -1,0 +1,5 @@
+{
+  "name": "all in one image generator",
+  "description": "An application that generates relevant image ideas based on a category and then creates unique, artistic prompts for each idea, exportable as a CSV.",
+  "requestFramePermissions": []
+}
